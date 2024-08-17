@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96423824642",
+    "project_id": "project-oderfood",
+    "storage_bucket": "project-oderfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96423824642:android:cba5dd172686db4a67461b",
+        "android_client_info": {
+          "package_name": "com.example.orderfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSAC0jniky-Xb7UTsyU8hgKAkoCCR5is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
