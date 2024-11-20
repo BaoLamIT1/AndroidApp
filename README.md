@@ -38,7 +38,7 @@
     When an item is clicked, the <code>activity_list_food</code> appears.
 </p>
 
-<img src="https://github.com/user-attachments/assets/ff732b34-a573-410f-9ac6-f5410ed8f84f" alt="List Food Layout" width="600"/>
+<img src="README_Img/listFood.png" alt="List Food Layout" style = "width:33%"/>
 
 ---
 
