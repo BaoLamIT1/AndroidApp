@@ -12,7 +12,7 @@
     This is the Home layout. I have two RecyclerViews that display the bestFoodView and categoryView items.
 </p>
 
-<img src="https://github.com/user-attachments/assets/138b5f15-0fbb-457f-96ca-264ee8c989a2" alt="Home Layout" width="600"/>
+<img src="README_Img/Home.png" alt="Home Layout" style = "width:33%"/>
 
 ---
 
@@ -23,11 +23,11 @@
     There are also buttons for increasing or decreasing the quantity and an "Add to Cart" button to add items to the cart.
 </p>
 
-<img src="https://github.com/user-attachments/assets/21bbb217-4176-40ab-b663-0ab5147f6e07" alt="Food Details Layout" width="600"/>
+<img src="README_Img/foodDetails.png" alt="Food Details Layout" style = "width:33%"/>
 
 <p align="left">Adding successfully:</p>
 
-<img src="https://github.com/user-attachments/assets/679c129a-b7ea-43f1-bfe9-6ef92294bb55" alt="Add Food Success" width="600"/>
+<img src="README_Img/burgerAdd.png" alt="Add Food Success" style = "width:33%"/>
 
 ---
 
