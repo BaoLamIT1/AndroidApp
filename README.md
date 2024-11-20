@@ -59,4 +59,4 @@
     It also includes bill management. The "Place Order" button is currently non-functional as I am still learning how to implement it.
 </p>
 
-<img src="https://github.com/user-attachments/assets/888b2500-02e7-4be0-982f-ef3ec258cf17" alt="Cart Layout" style = "width:33%"/>
+<img src="README_Img/cartActivity.png" alt="Cart Layout" style = "width:33%"/>
